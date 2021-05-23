@@ -1,4 +1,4 @@
-module sss
+module github.com/tendyang/sss
 
 go 1.16
 
